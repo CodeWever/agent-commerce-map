@@ -4,6 +4,8 @@ Every way AI agents pay and get paid, in one place. Free, open, and machine-read
 
 Agents can find each other now. The next question is how they pay each other, and how a human stays in charge while they do it. This map is the answer we could find in one place: every live way agents move money, from open protocols to hosted rails to card networks, with live status, real costs, and what each path actually requires.
 
+Read the X article: [Agents can find each other. Now they need to pay each other.](https://x.com/DavidWever/article/2114462384052146293)
+
 Version 1.0.0, October 25, 2026. All entries were checked against their official sources on that date. This layer moves fast. Verify on the source before you build on it.
 
 ## Five to start with, one per job
