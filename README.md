@@ -1,3 +1,5 @@
+![The Agent Commerce Map: Every way agents pay and get paid](assets/agent-commerce-map-cover.png)
+
 # The Agent Commerce Map
 
 Every way AI agents pay and get paid, in one place. Free, open, and machine-readable.
